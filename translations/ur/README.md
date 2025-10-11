@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "fbe8e2c7026d42ed06780dce1b06fd61",
-  "translation_date": "2025-10-03T14:13:31+00:00",
+  "original_hash": "35b7c9b08396abaac3d149cb1a9bfebb",
+  "translation_date": "2025-10-11T10:22:20+00:00",
   "source_file": "README.md",
   "language_code": "ur"
 }
@@ -21,9 +21,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🌐 کثیر زبان کی حمایت
 
-#### GitHub ایکشن کے ذریعے خودکار اور ہمیشہ اپ ڈیٹ رہنے والی
+#### GitHub ایکشن کے ذریعے دستیاب (خودکار اور ہمیشہ اپ ڈیٹ شدہ)
 
-[French](../fr/README.md) | [Spanish](../es/README.md) | [German](../de/README.md) | [Russian](../ru/README.md) | [Arabic](../ar/README.md) | [Persian (Farsi)](../fa/README.md) | [Urdu](./README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Hindi](../hi/README.md) | [Bengali](../bn/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Portuguese (Brazil)](../br/README.md) | [Italian](../it/README.md) | [Polish](../pl/README.md) | [Turkish](../tr/README.md) | [Greek](../el/README.md) | [Thai](../th/README.md) | [Swedish](../sv/README.md) | [Danish](../da/README.md) | [Norwegian](../no/README.md) | [Finnish](../fi/README.md) | [Dutch](../nl/README.md) | [Hebrew](../he/README.md) | [Vietnamese](../vi/README.md) | [Indonesian](../id/README.md) | [Malay](../ms/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Swahili](../sw/README.md) | [Hungarian](../hu/README.md) | [Czech](../cs/README.md) | [Slovak](../sk/README.md) | [Romanian](../ro/README.md) | [Bulgarian](../bg/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Croatian](../hr/README.md) | [Slovenian](../sl/README.md) | [Ukrainian](../uk/README.md) | [Burmese (Myanmar)](../my/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[عربی](../ar/README.md) | [بنگالی](../bn/README.md) | [بلغاریائی](../bg/README.md) | [برمی (میانمار)](../my/README.md) | [چینی (سادہ)](../zh/README.md) | [چینی (روایتی، ہانگ کانگ)](../hk/README.md) | [چینی (روایتی، مکاؤ)](../mo/README.md) | [چینی (روایتی، تائیوان)](../tw/README.md) | [کروشین](../hr/README.md) | [چیک](../cs/README.md) | [ڈینش](../da/README.md) | [ڈچ](../nl/README.md) | [ایسٹونین](../et/README.md) | [فنش](../fi/README.md) | [فرانسیسی](../fr/README.md) | [جرمن](../de/README.md) | [یونانی](../el/README.md) | [عبرانی](../he/README.md) | [ہندی](../hi/README.md) | [ہنگریائی](../hu/README.md) | [انڈونیشیائی](../id/README.md) | [اطالوی](../it/README.md) | [جاپانی](../ja/README.md) | [کوریائی](../ko/README.md) | [لتھوانیائی](../lt/README.md) | [ملائی](../ms/README.md) | [مراٹھی](../mr/README.md) | [نیپالی](../ne/README.md) | [نارویجین](../no/README.md) | [فارسی](../fa/README.md) | [پولش](../pl/README.md) | [پرتگالی (برازیل)](../br/README.md) | [پرتگالی (پرتگال)](../pt/README.md) | [پنجابی (گرمکھی)](../pa/README.md) | [رومانیائی](../ro/README.md) | [روسی](../ru/README.md) | [سربیائی (سیریلک)](../sr/README.md) | [سلوواک](../sk/README.md) | [سلووینیائی](../sl/README.md) | [ہسپانوی](../es/README.md) | [سواحلی](../sw/README.md) | [سویڈش](../sv/README.md) | [ٹیگالوگ (فلپائنی)](../tl/README.md) | [تمل](../ta/README.md) | [تھائی](../th/README.md) | [ترکی](../tr/README.md) | [یوکرینی](../uk/README.md) | [اردو](./README.md) | [ویتنامی](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 **اگر آپ اضافی زبانوں کی حمایت چاہتے ہیں تو دستیاب زبانوں کی فہرست [یہاں](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md) دیکھیں**
 
@@ -36,17 +38,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 شروعات کریں
 
-یہ کورس AI ایجنٹس بنانے کے بنیادی اصولوں پر مشتمل اسباق فراہم کرتا ہے۔ ہر سبق ایک مخصوص موضوع کا احاطہ کرتا ہے، لہذا جہاں سے چاہیں شروع کریں!
+یہ کورس AI ایجنٹس بنانے کے بنیادی اصولوں پر مشتمل اسباق فراہم کرتا ہے۔ ہر سبق ایک مخصوص موضوع پر مشتمل ہے، لہذا آپ جہاں چاہیں شروع کر سکتے ہیں!
 
 اس کورس کے لیے کثیر زبان کی حمایت دستیاب ہے۔ ہماری [دستیاب زبانوں کی فہرست یہاں دیکھیں](../..)۔
 
-اگر یہ آپ کا پہلا موقع ہے کہ آپ Generative AI ماڈلز کے ساتھ کام کر رہے ہیں، تو ہمارا [Generative AI For Beginners](https://aka.ms/genai-beginners) کورس دیکھیں، جس میں GenAI کے ساتھ کام کرنے کے 21 اسباق شامل ہیں۔
+اگر یہ آپ کا پہلا موقع ہے جب آپ Generative AI ماڈلز کے ساتھ کام کر رہے ہیں، تو ہمارا [Generative AI For Beginners](https://aka.ms/genai-beginners) کورس دیکھیں، جس میں GenAI کے ساتھ کام کرنے کے 21 اسباق شامل ہیں۔
 
 یہ نہ بھولیں کہ [اس ریپو کو اسٹار (🌟) کریں](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) اور [اس ریپو کو فورک کریں](https://github.com/microsoft/ai-agents-for-beginners/fork) تاکہ کوڈ چلایا جا سکے۔
 
 ### دوسرے سیکھنے والوں سے ملیں، اپنے سوالات کے جوابات حاصل کریں
 
-اگر آپ کسی مسئلے میں پھنس جائیں یا AI ایجنٹس بنانے کے بارے میں کوئی سوال ہو، تو ہمارے مخصوص Discord چینل میں شامل ہوں [Azure AI Foundry Community Discord](https://aka.ms/ai-agents/discord)۔
+اگر آپ کو کسی مسئلے کا سامنا ہو یا AI ایجنٹس بنانے کے بارے میں کوئی سوال ہو، تو ہمارے مخصوص Discord چینل میں شامل ہوں [Azure AI Foundry Community Discord](https://aka.ms/ai-agents/discord)۔
 
 ### آپ کو کیا چاہیے
 
@@ -57,14 +59,14 @@ CO_OP_TRANSLATOR_METADATA:
 - [Github Models](https://aka.ms/ai-agents-beginners/github-models) - مفت / محدود
 - [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Azure اکاؤنٹ درکار ہے
 
-یہ کورس Microsoft کے درج ذیل AI ایجنٹ فریم ورک اور سروسز کا بھی استعمال کرتا ہے:
+یہ کورس Microsoft کے درج ذیل AI ایجنٹ فریم ورک اور سروسز کا استعمال کرتا ہے:
 
 - [Microsoft Agent Framework (MAF) - نیا!](https://aka.ms/ai-agents-beginners/agent-framewrok)
 - [Azure AI Agent Service](https://aka.ms/ai-agents-beginners/ai-agent-service)
 - [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)
 - [AutoGen](https://aka.ms/ai-agents/autogen)
 
-اس کورس کے کوڈ چلانے کے بارے میں مزید معلومات کے لیے، [کورس سیٹ اپ](./00-course-setup/README.md) پر جائیں۔
+اس کورس کے کوڈ کو چلانے کے بارے میں مزید معلومات کے لیے، [کورس سیٹ اپ](./00-course-setup/README.md) پر جائیں۔
 
 ## 🙏 مدد کرنا چاہتے ہیں؟
 
@@ -88,8 +90,8 @@ CO_OP_TRANSLATOR_METADATA:
 | قابل اعتماد AI ایجنٹس بنانا                  | [لنک](./06-building-trustworthy-agents/README.md) | [ویڈیو](https://youtu.be/iZKkMEGBCUQ?si=jZjpiMnGFOE9L8OK ) | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | منصوبہ بندی ڈیزائن پیٹرن                    | [لنک](./07-planning-design/README.md)             | [ویڈیو](https://youtu.be/kPfJ2BrBCMY?si=6SC_iv_E5-mzucnC)  | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | ملٹی ایجنٹ ڈیزائن پیٹرن                      | [لنک](./08-multi-agent/README.md)                 | [ویڈیو](https://youtu.be/V6HpE9hZEx0?si=rMgDhEu7wXo2uo6g)  | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| میٹا کوگنیشن ڈیزائن پیٹرن                   | [لنک](./09-metacognition/README.md)               | [ویڈیو](https://youtu.be/His9R6gw6Ec?si=8gck6vvdSNCt6OcF)  | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| AI ایجنٹس کو پروڈکشن میں لانا                | [لنک](./10-ai-agents-production/README.md)        | [ویڈیو](https://youtu.be/l4TP6IyJxmQ?si=31dnhexRo6yLRJDl)  | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| میٹا کوگنیشن ڈیزائن پیٹرن                    | [لنک](./09-metacognition/README.md)               | [ویڈیو](https://youtu.be/His9R6gw6Ec?si=8gck6vvdSNCt6OcF)  | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| پروڈکشن میں AI ایجنٹس                       | [لنک](./10-ai-agents-production/README.md)        | [ویڈیو](https://youtu.be/l4TP6IyJxmQ?si=31dnhexRo6yLRJDl)  | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | ایجنٹک پروٹوکولز (MCP، A2A اور NLWeb) کا استعمال | [لنک](./11-agentic-protocols/README.md)           | [ویڈیو](https://youtu.be/X-Dh9R3Opn8)                                 | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | AI ایجنٹس کے لیے کانٹیکسٹ انجینئرنگ            | [لنک](./12-context-engineering/README.md)         | [ویڈیو](https://youtu.be/F5zqRV7gEag)                                 | [لنک](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | ایجنٹک میموری کا انتظام                      | [لنک](./13-agent-memory/README.md)     |      [ویڈیو](https://youtu.be/QrYbHesIxpw?si=vZkVwKrQ4ieCcIPx)                                                      |                                                                                        |
@@ -116,29 +118,29 @@ CO_OP_TRANSLATOR_METADATA:
 - [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
 - [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
 - [GitHub Copilot کے ساتھ AI پیئرڈ پروگرامنگ میں مہارت حاصل کریں](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
-- [C#/.NET ڈویلپرز کے لیے GitHub Copilot میں مہارت حاصل کریں](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+- [GitHub Copilot کے ساتھ C#/.NET ڈیولپرز کے لیے مہارت حاصل کریں](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
 - [اپنا Copilot ایڈونچر منتخب کریں](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
 
 ## 🌟 کمیونٹی کا شکریہ
 
-[شیوم گوئل](https://www.linkedin.com/in/shivam2003/) کا شکریہ جنہوں نے ایجنٹک RAG کے اہم کوڈ نمونے فراہم کیے۔
+[Shivam Goyal](https://www.linkedin.com/in/shivam2003/) کا شکریہ جنہوں نے ایجنٹک RAG کے اہم کوڈ نمونے فراہم کیے۔
 
 ## تعاون کرنا
 
 یہ پروجیکٹ تعاون اور تجاویز کا خیر مقدم کرتا ہے۔ زیادہ تر تعاون کے لیے آپ کو ایک 
-Contributor License Agreement (CLA) پر دستخط کرنے کی ضرورت ہوگی، جس میں آپ یہ اعلان کریں گے کہ آپ کے پاس اپنے تعاون کے حقوق ہیں اور آپ ہمیں ان کے استعمال کی اجازت دیتے ہیں۔ تفصیلات کے لیے دیکھیں <https://cla.opensource.microsoft.com>۔
+Contributor License Agreement (CLA) پر دستخط کرنا ہوگا، جس میں آپ یہ اعلان کریں گے کہ آپ کے پاس اپنے تعاون کے حقوق ہیں اور آپ ہمیں ان کے استعمال کی اجازت دیتے ہیں۔ تفصیلات کے لیے دیکھیں <https://cla.opensource.microsoft.com>۔
 
-جب آپ ایک pull request جمع کراتے ہیں، تو CLA بوٹ خودکار طور پر یہ طے کرے گا کہ آیا آپ کو CLA فراہم کرنے کی ضرورت ہے اور PR کو مناسب طریقے سے سجائے گا (جیسے، اسٹیٹس چیک، تبصرہ)۔ بس بوٹ کی فراہم کردہ ہدایات پر عمل کریں۔ آپ کو یہ صرف ایک بار تمام ریپوز کے لیے کرنا ہوگا جو ہمارے CLA کا استعمال کرتے ہیں۔
+جب آپ ایک pull request جمع کراتے ہیں، تو CLA بوٹ خودکار طور پر یہ طے کرے گا کہ آیا آپ کو CLA فراہم کرنے کی ضرورت ہے اور PR کو مناسب طریقے سے سجائے گا (جیسے، اسٹیٹس چیک، تبصرہ)۔ بس بوٹ کی فراہم کردہ ہدایات پر عمل کریں۔ آپ کو یہ صرف ایک بار تمام ریپوز کے لیے کرنا ہوگا جو ہمارے CLA استعمال کرتے ہیں۔
 
-اس پروجیکٹ نے [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) کو اپنایا ہے۔
+یہ پروجیکٹ [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) کو اپناتا ہے۔
 مزید معلومات کے لیے [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) دیکھیں یا 
 [opencode@microsoft.com](mailto:opencode@microsoft.com) پر اضافی سوالات یا تبصرے بھیجیں۔
 
 ## ٹریڈ مارکس
 
-یہ پروجیکٹ ممکنہ طور پر پروجیکٹس، مصنوعات، یا خدمات کے لیے ٹریڈ مارکس یا لوگوز شامل کر سکتا ہے۔ مائیکروسافٹ کے ٹریڈ مارکس یا لوگوز کے مجاز استعمال کو [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) کی پیروی کرنی ہوگی۔
+یہ پروجیکٹ ممکنہ طور پر پروجیکٹس، مصنوعات، یا خدمات کے ٹریڈ مارکس یا لوگوز پر مشتمل ہو سکتا ہے۔ مائیکروسافٹ کے ٹریڈ مارکس یا لوگوز کے مجاز استعمال کو [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) کی پیروی کرنی ہوگی۔
 پروجیکٹ کے ترمیم شدہ ورژنز میں مائیکروسافٹ کے ٹریڈ مارکس یا لوگوز کا استعمال الجھن پیدا نہیں کرنا چاہیے یا مائیکروسافٹ کی اسپانسرشپ کا اشارہ نہیں دینا چاہیے۔
-کسی بھی تیسرے فریق کے ٹریڈ مارکس یا لوگوز کا استعمال ان کے متعلقہ پالیسیوں کے تابع ہوگا۔
+کسی بھی تیسرے فریق کے ٹریڈ مارکس یا لوگوز کا استعمال ان کے متعلقہ پالیسیوں کے تابع ہے۔
 
 ## مدد حاصل کرنا
 
@@ -146,11 +148,11 @@ Contributor License Agreement (CLA) پر دستخط کرنے کی ضرورت ہ�
 
 [![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
 
-اگر آپ کو پروڈکٹ کے بارے میں فیڈبیک دینا ہو یا ایپس بنانے میں کوئی غلطی ہو، تو دیکھیں:
+اگر آپ کو پروڈکٹ کے بارے میں فیڈبیک دینا ہو یا ایپس بنانے کے دوران کوئی غلطی ہو، تو دیکھیں:
 
 [![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 **ڈسکلیمر**:  
-یہ دستاویز AI ترجمہ سروس [Co-op Translator](https://github.com/Azure/co-op-translator) کا استعمال کرتے ہوئے ترجمہ کی گئی ہے۔ ہم درستگی کے لیے کوشش کرتے ہیں، لیکن براہ کرم آگاہ رہیں کہ خودکار ترجمے میں غلطیاں یا غیر درستیاں ہو سکتی ہیں۔ اصل دستاویز کو اس کی اصل زبان میں مستند ذریعہ سمجھا جانا چاہیے۔ اہم معلومات کے لیے، پیشہ ور انسانی ترجمہ کی سفارش کی جاتی ہے۔ ہم اس ترجمے کے استعمال سے پیدا ہونے والی کسی بھی غلط فہمی یا غلط تشریح کے ذمہ دار نہیں ہیں۔
+یہ دستاویز AI ترجمہ سروس [Co-op Translator](https://github.com/Azure/co-op-translator) کا استعمال کرتے ہوئے ترجمہ کی گئی ہے۔ ہم درستگی کے لیے کوشش کرتے ہیں، لیکن براہ کرم آگاہ رہیں کہ خودکار ترجمے میں غلطیاں یا غیر درستیاں ہو سکتی ہیں۔ اصل دستاویز کو اس کی اصل زبان میں مستند ذریعہ سمجھا جانا چاہیے۔ اہم معلومات کے لیے، پیشہ ور انسانی ترجمہ کی سفارش کی جاتی ہے۔ اس ترجمے کے استعمال سے پیدا ہونے والی کسی بھی غلط فہمی یا غلط تشریح کے لیے ہم ذمہ دار نہیں ہیں۔

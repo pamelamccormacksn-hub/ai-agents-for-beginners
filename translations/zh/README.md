@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "fbe8e2c7026d42ed06780dce1b06fd61",
-  "translation_date": "2025-10-03T14:15:03+00:00",
+  "original_hash": "35b7c9b08396abaac3d149cb1a9bfebb",
+  "translation_date": "2025-10-11T10:23:07+00:00",
   "source_file": "README.md",
   "language_code": "zh"
 }
 -->
 # 初学者的 AI 代理课程
 
-![生成式 AI 初学者课程](../../translated_images/repo-thumbnailv2.06f4a48036fde647f6ba4eb19f5651babe59bb30e972748afb349e47725d7601.zh.png)
+![初学者生成式 AI](../../translated_images/repo-thumbnailv2.06f4a48036fde647f6ba4eb19f5651babe59bb30e972748afb349e47725d7601.zh.png)
 
 ## 一门教你从零开始构建 AI 代理的课程
 
@@ -23,7 +23,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 #### 通过 GitHub Action 支持（自动更新，始终保持最新）
 
-[法语](../fr/README.md) | [西班牙语](../es/README.md) | [德语](../de/README.md) | [俄语](../ru/README.md) | [阿拉伯语](../ar/README.md) | [波斯语 (Farsi)](../fa/README.md) | [乌尔都语](../ur/README.md) | [中文 (简体)](./README.md) | [中文 (繁体，澳门)](../mo/README.md) | [中文 (繁体，香港)](../hk/README.md) | [中文 (繁体，台湾)](../tw/README.md) | [日语](../ja/README.md) | [韩语](../ko/README.md) | [印地语](../hi/README.md) | [孟加拉语](../bn/README.md) | [马拉地语](../mr/README.md) | [尼泊尔语](../ne/README.md) | [旁遮普语 (Gurmukhi)](../pa/README.md) | [葡萄牙语 (葡萄牙)](../pt/README.md) | [葡萄牙语 (巴西)](../br/README.md) | [意大利语](../it/README.md) | [波兰语](../pl/README.md) | [土耳其语](../tr/README.md) | [希腊语](../el/README.md) | [泰语](../th/README.md) | [瑞典语](../sv/README.md) | [丹麦语](../da/README.md) | [挪威语](../no/README.md) | [芬兰语](../fi/README.md) | [荷兰语](../nl/README.md) | [希伯来语](../he/README.md) | [越南语](../vi/README.md) | [印尼语](../id/README.md) | [马来语](../ms/README.md) | [他加禄语 (菲律宾)](../tl/README.md) | [斯瓦希里语](../sw/README.md) | [匈牙利语](../hu/README.md) | [捷克语](../cs/README.md) | [斯洛伐克语](../sk/README.md) | [罗马尼亚语](../ro/README.md) | [保加利亚语](../bg/README.md) | [塞尔维亚语 (西里尔字母)](../sr/README.md) | [克罗地亚语](../hr/README.md) | [斯洛文尼亚语](../sl/README.md) | [乌克兰语](../uk/README.md) | [缅甸语 (Myanmar)](../my/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[阿拉伯语](../ar/README.md) | [孟加拉语](../bn/README.md) | [保加利亚语](../bg/README.md) | [缅甸语](../my/README.md) | [中文（简体）](./README.md) | [中文（繁体，香港）](../hk/README.md) | [中文（繁体，澳门）](../mo/README.md) | [中文（繁体，台湾）](../tw/README.md) | [克罗地亚语](../hr/README.md) | [捷克语](../cs/README.md) | [丹麦语](../da/README.md) | [荷兰语](../nl/README.md) | [爱沙尼亚语](../et/README.md) | [芬兰语](../fi/README.md) | [法语](../fr/README.md) | [德语](../de/README.md) | [希腊语](../el/README.md) | [希伯来语](../he/README.md) | [印地语](../hi/README.md) | [匈牙利语](../hu/README.md) | [印尼语](../id/README.md) | [意大利语](../it/README.md) | [日语](../ja/README.md) | [韩语](../ko/README.md) | [立陶宛语](../lt/README.md) | [马来语](../ms/README.md) | [马拉地语](../mr/README.md) | [尼泊尔语](../ne/README.md) | [挪威语](../no/README.md) | [波斯语（法尔西语）](../fa/README.md) | [波兰语](../pl/README.md) | [葡萄牙语（巴西）](../br/README.md) | [葡萄牙语（葡萄牙）](../pt/README.md) | [旁遮普语（古木基文）](../pa/README.md) | [罗马尼亚语](../ro/README.md) | [俄语](../ru/README.md) | [塞尔维亚语（西里尔文）](../sr/README.md) | [斯洛伐克语](../sk/README.md) | [斯洛文尼亚语](../sl/README.md) | [西班牙语](../es/README.md) | [斯瓦希里语](../sw/README.md) | [瑞典语](../sv/README.md) | [他加禄语（菲律宾语）](../tl/README.md) | [泰米尔语](../ta/README.md) | [泰语](../th/README.md) | [土耳其语](../tr/README.md) | [乌克兰语](../uk/README.md) | [乌尔都语](../ur/README.md) | [越南语](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 **如果您希望支持其他语言，请查看 [这里](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
@@ -33,34 +35,35 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
 
+
 ## 🌱 快速入门
 
 本课程包含关于构建 AI 代理的基础知识的课程。每节课都有独立的主题，您可以从任意一节开始学习！
 
 本课程支持多语言。请查看我们的 [可用语言](../..)。
 
-如果您是第一次使用生成式 AI 模型，请查看我们的 [生成式 AI 初学者课程](https://aka.ms/genai-beginners)，其中包含 21 节关于使用生成式 AI 的课程。
+如果这是您第一次使用生成式 AI 模型，请查看我们的 [初学者生成式 AI](https://aka.ms/genai-beginners) 课程，其中包含 21 节关于生成式 AI 的课程。
 
-别忘了 [收藏 (🌟) 本仓库](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) 和 [Fork 本仓库](https://github.com/microsoft/ai-agents-for-beginners/fork) 来运行代码。
+别忘了 [收藏（🌟）这个仓库](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) 和 [分叉这个仓库](https://github.com/microsoft/ai-agents-for-beginners/fork) 来运行代码。
 
 ### 与其他学习者交流，解决您的问题
 
-如果您遇到困难或有关于构建 AI 代理的问题，请加入我们在 [Azure AI Foundry 社区 Discord](https://aka.ms/ai-agents/discord) 的专属频道。
+如果您遇到困难或对构建 AI 代理有任何疑问，请加入我们在 [Azure AI Foundry 社区 Discord](https://aka.ms/ai-agents/discord) 的专属频道。
 
 ### 您需要准备什么
 
-本课程的每节课都包含代码示例，您可以在 code_samples 文件夹中找到这些示例。您可以 [Fork 本仓库](https://github.com/microsoft/ai-agents-for-beginners/fork) 来创建自己的副本。
+本课程的每节课都包含代码示例，您可以在 code_samples 文件夹中找到这些示例。您可以 [分叉这个仓库](https://github.com/microsoft/ai-agents-for-beginners/fork) 来创建自己的副本。
 
 这些练习中的代码示例使用 Azure AI Foundry 和 GitHub 模型目录与语言模型交互：
 
 - [GitHub 模型](https://aka.ms/ai-agents-beginners/github-models) - 免费 / 有限
 - [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - 需要 Azure 账户
 
-本课程还使用了以下来自 Microsoft 的 AI 代理框架和服务：
+本课程还使用了以下来自微软的 AI 代理框架和服务：
 
-- [Microsoft Agent Framework (MAF) - 新版！](https://aka.ms/ai-agents-beginners/agent-framewrok)
-- [Azure AI Agent Service](https://aka.ms/ai-agents-beginners/ai-agent-service)
-- [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)
+- [微软代理框架 (MAF) - 新！](https://aka.ms/ai-agents-beginners/agent-framewrok)
+- [Azure AI 代理服务](https://aka.ms/ai-agents-beginners/ai-agent-service)
+- [语义内核](https://aka.ms/ai-agents-beginners/semantic-kernel)
 - [AutoGen](https://aka.ms/ai-agents/autogen)
 
 有关运行本课程代码的更多信息，请查看 [课程设置](./00-course-setup/README.md)。
@@ -71,7 +74,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 📂 每节课包括
 
-- 位于 README 中的书面课程和简短视频
+- 位于 README 中的书面课程和一个简短视频
 - 支持 Azure AI Foundry 和 GitHub 模型（免费）的 Python 代码示例
 - 继续学习的额外资源链接
 
@@ -96,7 +99,7 @@ CO_OP_TRANSLATOR_METADATA:
 | 构建计算机使用代理 (CUA)          | 即将推出                            |                                                            |                                                                                        |
 | 部署可扩展代理                    | 即将推出                            |                                                            |                                                                                        |
 | 创建本地AI代理                    | 即将推出                               |                                                            |                                                                                        |
-| AI代理的安全性                    | 即将推出                               |                                                            |                                                                                        |
+| 确保AI代理的安全性                | 即将推出                               |                                                            |                                                                                        |
 
 ## 🎒 其他课程
 
@@ -120,7 +123,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌟 社区感谢
 
-感谢 [Shivam Goyal](https://www.linkedin.com/in/shivam2003/) 提供了重要的代码示例，展示了代理式RAG。
+感谢 [Shivam Goyal](https://www.linkedin.com/in/shivam2003/) 提供了展示代理式RAG的重要代码示例。
 
 ## 贡献
 
@@ -135,7 +138,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 本项目可能包含项目、产品或服务的商标或标志。使用微软商标或标志需遵守并符合 [微软商标和品牌指南](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)。
 在修改版本中使用微软商标或标志不得引起混淆或暗示微软赞助。
-任何使用第三方商标或标志的行为需遵守第三方的相关政策。
+任何使用第三方商标或标志的行为需遵守相关第三方的政策。
 
 ## 获取帮助
 
@@ -150,4 +153,4 @@ CO_OP_TRANSLATOR_METADATA:
 ---
 
 **免责声明**：  
-本文档使用AI翻译服务 [Co-op Translator](https://github.com/Azure/co-op-translator) 进行翻译。尽管我们努力确保翻译的准确性，但请注意，自动翻译可能包含错误或不准确之处。原始语言的文档应被视为权威来源。对于关键信息，建议使用专业人工翻译。我们不对因使用此翻译而产生的任何误解或误读承担责任。
+本文档使用AI翻译服务[Co-op Translator](https://github.com/Azure/co-op-translator)进行翻译。尽管我们努力确保翻译的准确性，但请注意，自动翻译可能包含错误或不准确之处。原始语言的文档应被视为权威来源。对于重要信息，建议使用专业人工翻译。我们对因使用此翻译而产生的任何误解或误读不承担责任。

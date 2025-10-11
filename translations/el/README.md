@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "fbe8e2c7026d42ed06780dce1b06fd61",
-  "translation_date": "2025-10-03T14:39:26+00:00",
+  "original_hash": "35b7c9b08396abaac3d149cb1a9bfebb",
+  "translation_date": "2025-10-11T10:35:06+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
@@ -19,11 +19,13 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/pulls/?WT.mc_id=academic-105485-koreyst)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
-### 🌐 Υποστήριξη Πολλών Γλωσσών
+### 🌐 Υποστήριξη Πολλαπλών Γλωσσών
 
 #### Υποστηρίζεται μέσω GitHub Action (Αυτοματοποιημένο & Πάντα Ενημερωμένο)
 
-[Γαλλικά](../fr/README.md) | [Ισπανικά](../es/README.md) | [Γερμανικά](../de/README.md) | [Ρωσικά](../ru/README.md) | [Αραβικά](../ar/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Ουρντού](../ur/README.md) | [Κινέζικα (Απλοποιημένα)](../zh/README.md) | [Κινέζικα (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινέζικα (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινέζικα (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Ιαπωνικά](../ja/README.md) | [Κορεατικά](../ko/README.md) | [Χίντι](../hi/README.md) | [Μπενγκάλι](../bn/README.md) | [Μαραθικά](../mr/README.md) | [Νεπαλικά](../ne/README.md) | [Παντζάμπι (Γκουρμούκι)](../pa/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Ιταλικά](../it/README.md) | [Πολωνικά](../pl/README.md) | [Τουρκικά](../tr/README.md) | [Ελληνικά](./README.md) | [Ταϊλανδικά](../th/README.md) | [Σουηδικά](../sv/README.md) | [Δανικά](../da/README.md) | [Νορβηγικά](../no/README.md) | [Φινλανδικά](../fi/README.md) | [Ολλανδικά](../nl/README.md) | [Εβραϊκά](../he/README.md) | [Βιετναμέζικα](../vi/README.md) | [Ινδονησιακά](../id/README.md) | [Μαλαισιανά](../ms/README.md) | [Ταγκαλόγκ (Φιλιππινέζικα)](../tl/README.md) | [Σουαχίλι](../sw/README.md) | [Ουγγρικά](../hu/README.md) | [Τσέχικα](../cs/README.md) | [Σλοβακικά](../sk/README.md) | [Ρουμανικά](../ro/README.md) | [Βουλγαρικά](../bg/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Κροατικά](../hr/README.md) | [Σλοβενικά](../sl/README.md) | [Ουκρανικά](../uk/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Αραβικά](../ar/README.md) | [Βεγγαλικά](../bn/README.md) | [Βουλγαρικά](../bg/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md) | [Κινέζικα (Απλοποιημένα)](../zh/README.md) | [Κινέζικα (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινέζικα (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινέζικα (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Κροατικά](../hr/README.md) | [Τσέχικα](../cs/README.md) | [Δανικά](../da/README.md) | [Ολλανδικά](../nl/README.md) | [Εσθονικά](../et/README.md) | [Φινλανδικά](../fi/README.md) | [Γαλλικά](../fr/README.md) | [Γερμανικά](../de/README.md) | [Ελληνικά](./README.md) | [Εβραϊκά](../he/README.md) | [Χίντι](../hi/README.md) | [Ουγγρικά](../hu/README.md) | [Ινδονησιακά](../id/README.md) | [Ιταλικά](../it/README.md) | [Ιαπωνικά](../ja/README.md) | [Κορεατικά](../ko/README.md) | [Λιθουανικά](../lt/README.md) | [Μαλαισιανά](../ms/README.md) | [Μαραθικά](../mr/README.md) | [Νεπαλικά](../ne/README.md) | [Νορβηγικά](../no/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Πολωνικά](../pl/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Παντζάμπι (Γκουρμούκι)](../pa/README.md) | [Ρουμανικά](../ro/README.md) | [Ρωσικά](../ru/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Σλοβακικά](../sk/README.md) | [Σλοβενικά](../sl/README.md) | [Ισπανικά](../es/README.md) | [Σουαχίλι](../sw/README.md) | [Σουηδικά](../sv/README.md) | [Ταγκαλόγκ (Φιλιππινέζικα)](../tl/README.md) | [Ταμίλ](../ta/README.md) | [Ταϊλανδικά](../th/README.md) | [Τουρκικά](../tr/README.md) | [Ουκρανικά](../uk/README.md) | [Ουρντού](../ur/README.md) | [Βιετναμέζικα](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 **Αν θέλετε να υποστηριχθούν επιπλέον γλώσσες, οι διαθέσιμες γλώσσες παρατίθενται [εδώ](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
@@ -38,17 +40,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 Αυτό το μάθημα περιλαμβάνει μαθήματα που καλύπτουν τα βασικά για τη δημιουργία AI Agents. Κάθε μάθημα καλύπτει ένα ξεχωριστό θέμα, οπότε μπορείτε να ξεκινήσετε από όπου θέλετε!
 
-Υπάρχει υποστήριξη πολλών γλωσσών για αυτό το μάθημα. Δείτε τις [διαθέσιμες γλώσσες εδώ](../..). 
+Υπάρχει υποστήριξη πολλαπλών γλωσσών για αυτό το μάθημα. Δείτε τις [διαθέσιμες γλώσσες εδώ](../..). 
 
 Αν είναι η πρώτη σας φορά που ασχολείστε με μοντέλα Generative AI, δείτε το μάθημα μας [Generative AI For Beginners](https://aka.ms/genai-beginners), το οποίο περιλαμβάνει 21 μαθήματα για τη δημιουργία με GenAI.
 
-Μην ξεχάσετε να [δώσετε αστέρι (🌟) σε αυτό το repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) και να [κλωνοποιήσετε αυτό το repo](https://github.com/microsoft/ai-agents-for-beginners/fork) για να εκτελέσετε τον κώδικα.
+Μην ξεχάσετε να [προσθέσετε αστέρι (🌟) σε αυτό το repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) και να [κλωνοποιήσετε αυτό το repo](https://github.com/microsoft/ai-agents-for-beginners/fork) για να εκτελέσετε τον κώδικα.
 
-### Γνωρίστε Άλλους Μαθητές, Λύστε τις Απορίες σας
+### Γνωρίστε άλλους μαθητές, λύστε τις απορίες σας
 
 Αν κολλήσετε ή έχετε ερωτήσεις σχετικά με τη δημιουργία AI Agents, μπείτε στο ειδικό κανάλι Discord στην [Azure AI Foundry Community Discord](https://aka.ms/ai-agents/discord).
 
-### Τι Χρειάζεστε 
+### Τι χρειάζεστε 
 
 Κάθε μάθημα σε αυτό το μάθημα περιλαμβάνει παραδείγματα κώδικα, τα οποία μπορείτε να βρείτε στον φάκελο code_samples. Μπορείτε να [κλωνοποιήσετε αυτό το repo](https://github.com/microsoft/ai-agents-for-beginners/fork) για να δημιουργήσετε το δικό σας αντίγραφο.  
 
@@ -64,11 +66,14 @@ CO_OP_TRANSLATOR_METADATA:
 - [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)
 - [AutoGen](https://aka.ms/ai-agents/autogen)
 
+
 Για περισσότερες πληροφορίες σχετικά με την εκτέλεση του κώδικα για αυτό το μάθημα, δείτε το [Course Setup](./00-course-setup/README.md).
 
 ## 🙏 Θέλετε να βοηθήσετε;
 
-Έχετε προτάσεις ή βρήκατε ορθογραφικά ή λάθη στον κώδικα; [Ανοίξτε ένα θέμα](https://github.com/microsoft/ai-agents-for-beginners/issues?WT.mc_id=academic-105485-koreyst) ή [Δημιουργήστε ένα pull request](https://github.com/microsoft/ai-agents-for-beginners/pulls?WT.mc_id=academic-105485-koreyst).
+Έχετε προτάσεις ή βρήκατε ορθογραφικά ή λάθη στον κώδικα; [Ανοίξτε ένα θέμα](https://github.com/microsoft/ai-agents-for-beginners/issues?WT.mc_id=academic-105485-koreyst) ή [Δημιουργήστε ένα pull request](https://github.com/microsoft/ai-agents-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
+
+
 
 ## 📂 Κάθε μάθημα περιλαμβάνει
 
@@ -76,10 +81,11 @@ CO_OP_TRANSLATOR_METADATA:
 - Παραδείγματα κώδικα Python που υποστηρίζουν το Azure AI Foundry και τα Github Models (Δωρεάν)
 - Συνδέσμους σε επιπλέον πόρους για να συνεχίσετε τη μάθηση σας
 
+
 ## 🗃️ Μαθήματα
 
-| **Μάθημα**                                   | **Κείμενο & Κώδικας**                              | **Βίντεο**                                                  | **Επιπλέον Μάθηση**                                                                 |
-|----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Μάθημα**                                   | **Κείμενο & Κώδικας**                              | **Βίντεο**                                                  | **Επιπλέον Μάθηση**                                                                     |
+|----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Εισαγωγή στους AI Agents και Χρήσεις         | [Σύνδεσμος](./01-intro-to-ai-agents/README.md)     | [Βίντεο](https://youtu.be/3zgm60bXmQk?si=z8QygFvYQv-9WtO1)  | [Σύνδεσμος](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Εξερεύνηση Πλαισίων AI Agentic               | [Σύνδεσμος](./02-explore-agentic-frameworks/README.md) | [Βίντεο](https://youtu.be/ODwF-EZo_O8?si=Vawth4hzVaHv-u0H)  | [Σύνδεσμος](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Κατανόηση Σχεδιαστικών Προτύπων AI Agentic   | [Σύνδεσμος](./03-agentic-design-patterns/README.md) | [Βίντεο](https://youtu.be/m9lM8qqoOEA?si=BIzHwzstTPL8o9GF)  | [Σύνδεσμος](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
@@ -126,8 +132,8 @@ CO_OP_TRANSLATOR_METADATA:
 ## Συνεισφορά
 
 Αυτό το έργο δέχεται συνεισφορές και προτάσεις. Οι περισσότερες συνεισφορές απαιτούν να συμφωνήσετε με μια
-Συμφωνία Άδειας Χρήσης Συνεισφέροντα (CLA), δηλώνοντας ότι έχετε το δικαίωμα και πραγματικά παραχωρείτε σε εμάς
-τα δικαιώματα να χρησιμοποιούμε τη συνεισφορά σας. Για λεπτομέρειες, επισκεφθείτε το <https://cla.opensource.microsoft.com>.
+Συμφωνία Άδειας Χρήσης Συνεισφέροντος (CLA), δηλώνοντας ότι έχετε το δικαίωμα και πραγματικά παραχωρείτε σε εμάς
+τα δικαιώματα να χρησιμοποιήσουμε τη συνεισφορά σας. Για λεπτομέρειες, επισκεφθείτε το <https://cla.opensource.microsoft.com>.
 
 Όταν υποβάλετε ένα pull request, ένα bot CLA θα καθορίσει αυτόματα αν χρειάζεται να παρέχετε
 CLA και θα διακοσμήσει το PR ανάλογα (π.χ., έλεγχος κατάστασης, σχόλιο). Απλώς ακολουθήστε τις οδηγίες
@@ -157,4 +163,4 @@ CLA και θα διακοσμήσει το PR ανάλογα (π.χ., έλεγ�
 ---
 
 **Αποποίηση ευθύνης**:  
-Αυτό το έγγραφο έχει μεταφραστεί χρησιμοποιώντας την υπηρεσία μετάφρασης AI [Co-op Translator](https://github.com/Azure/co-op-translator). Παρόλο που καταβάλλουμε προσπάθειες για ακρίβεια, παρακαλούμε να έχετε υπόψη ότι οι αυτοματοποιημένες μεταφράσεις ενδέχεται να περιέχουν λάθη ή ανακρίβειες. Το πρωτότυπο έγγραφο στη μητρική του γλώσσα θα πρέπει να θεωρείται η αυθεντική πηγή. Για κρίσιμες πληροφορίες, συνιστάται επαγγελματική ανθρώπινη μετάφραση. Δεν φέρουμε ευθύνη για τυχόν παρεξηγήσεις ή εσφαλμένες ερμηνείες που προκύπτουν από τη χρήση αυτής της μετάφρασης.
+Αυτό το έγγραφο έχει μεταφραστεί χρησιμοποιώντας την υπηρεσία αυτόματης μετάφρασης [Co-op Translator](https://github.com/Azure/co-op-translator). Παρόλο που καταβάλλουμε προσπάθειες για ακρίβεια, παρακαλούμε να έχετε υπόψη ότι οι αυτόματες μεταφράσεις ενδέχεται να περιέχουν σφάλματα ή ανακρίβειες. Το πρωτότυπο έγγραφο στη μητρική του γλώσσα θα πρέπει να θεωρείται η αυθεντική πηγή. Για κρίσιμες πληροφορίες, συνιστάται επαγγελματική ανθρώπινη μετάφραση. Δεν φέρουμε ευθύνη για τυχόν παρεξηγήσεις ή εσφαλμένες ερμηνείες που προκύπτουν από τη χρήση αυτής της μετάφρασης.

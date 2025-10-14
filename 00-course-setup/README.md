@@ -18,6 +18,79 @@ You should now have your own forked version of this course in the following link
 
 ![Forked Repo](./images/forked-repo.png)
 
+### Shallow Clone (recommended for workshop / Codespaces)
+
+  >The full repository can be large (~3 GB) when you download full history and all files. If you're only attending the workshop or only need a few lesson folders, a shallow clone (or a sparse clone) avoids most of that download by truncating history and/or skipping blobs.
+
+#### Quick shallow clone — minimal history, all files
+
+Replace `<your-username>` in the below commands with your fork URL (or the upstream URL if you prefer).
+
+To clone only the latest commit history (small download):
+
+```bash|powershell
+git clone --depth 1 https://github.com/<your-username>/ai-agents-for-beginners.git
+```
+
+To clone a specific branch:
+
+```bash|powershell
+git clone --depth 1 --branch <branch-name> https://github.com/<your-username>/ai-agents-for-beginners.git
+```
+
+#### Partial (sparse) clone — minimal blobs + only selected folders
+
+This uses partial clone and sparse-checkout (requires Git 2.25+ and recommended modern Git with partial clone support):
+
+```bash|powershell
+git clone --depth 1 --filter=blob:none --sparse https://github.com/<your-username>/ai-agents-for-beginners.git
+```
+
+Traverse into the repo folder:
+
+For bash:
+
+```bash
+cd ai-agents-for-beginners
+```
+
+For Powershell:
+
+```powershell
+Set-Location ai-agents-for-beginners
+```
+
+Then specify which folders you want (example below shows two folders):
+
+```bash|powershell
+git sparse-checkout set 00-course-setup 01-intro-to-ai-agents
+```
+
+After cloning and verifying the files, if you only need files and want to free space (no git history), please delete the repository metadata (💀irreversible — you won't be able to git pull later on).
+
+For Linux/macOS:
+```bash
+rm -rf .git
+```
+
+For Windows:
+```powershell
+Remove-Item -Recurse -Force .git
+```
+
+#### Using GitHub Codespaces (recommended to avoid local large downloads)
+
+- Create a new Codespace for this repo via the [GitHub UI](https://github.com/codespaces).  
+
+- In the terminal of the newly created codespace, run one of the shallow/sparse clone commands above to bring only the lesson folders you need into the Codespace workspace.
+- Optional: after cloning inside Codespaces, remove .git to reclaim extra space (see removal commands above).
+- Note: If you prefer to open the repo directly in Codespaces (without an extra clone), be aware Codespaces will construct the devcontainer environment and may still provision more than you need. Cloning a shallow copy inside a fresh Codespace gives you more control over disk usage.
+
+#### Tips
+
+- Always replace the clone URL with your fork if you want to edit/commit.
+- If you later need more history or files, you can fetch them or adjust sparse-checkout to include additional folders.
+
 ## Running the Code
 
 This course offers a series of Jupyter Notebooks that you can run with to get hands-on experience building AI Agents.

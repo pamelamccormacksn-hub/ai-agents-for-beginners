@@ -66,14 +66,16 @@ Then specify which folders you want (example below shows two folders):
 git sparse-checkout set 00-course-setup 01-intro-to-ai-agents
 ```
 
-After cloning and verifying the files, if you only need files and want to free space (no git history), please delete the repository metadata (💀irreversible — you won't be able to git pull later on).
+After cloning and verifying the files, if you only need files and want to free space (no git history), please delete the repository metadata (💀irreversible — you will lose all Git functionality: no commits, pulls, pushes, or history access).
 
 For Linux/macOS:
+
 ```bash
 rm -rf .git
 ```
 
 For Windows:
+
 ```powershell
 Remove-Item -Recurse -Force .git
 ```

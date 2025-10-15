@@ -1,50 +1,31 @@
-# Build dependencies first
-numpy>=1.24.0
-setuptools>=65.0.0
-wheel
-
-# Core AI frameworks - these are most stable
-semantic-kernel>=1.35.3,<1.38.0
+semantic-kernel
 semantic-kernel[azure]
 semantic-kernel[mcp]
-openai==2.1.0
+openai
 
 # AutoGen framework
-autogen-agentchat>=0.4.0,<0.8.0
-autogen-core>=0.4.0,<0.8.0
-autogen-ext>=0.4.0,<0.8.0
+autogen-agentchat
+autogen-core
+autogen-ext
 autogen-ext[azure]
 
 # Azure AI services
-azure-ai-inference~=1.0.0b9
-azure-ai-projects==1.0.0b12
-azure-search-documents>=11.5.2
+azure-ai-inference
+azure-ai-projects
+azure-search-documents
+httpx
+ipykernel
+pillow
+python-dotenv
+pandas
+uvicorn
+nest-asyncio
 
-# Vector database and data handling - pin to stable versions
-chromadb==0.6.3
-posthog==3.24.0  # Pin specific version to prevent backtracking
-datasets>=2.0.0
+agent-framework
 
-# Specialized libraries - pin versions to prevent conflicts
-chainlit>=1.0.0,<3.0.0
-httpx>=0.24.0,<1.0.0
-ipykernel~=6.29.5
-langfuse==3.5.0  # Pin to avoid OpenTelemetry conflicts
-mistralai~=0.4.2
-openlit==1.20.0  # Pin to compatible version
-pillow==11.0.0
-python-dotenv~=1.0.1
-pandas>=1.5.0,<3.0.0
-uvicorn>=0.20.0,<1.0.0
-nest-asyncio>=1.5.0,<2.0.0
 
-# Memory and specialized frameworks - remove mem0ai temporarily
-# mem0ai==0.1.100  # Will install separately 
-agent-framework>=1.0.0b1
-browser_use>=0.1.0,<1.0.0
-
-# MCP support - pin version
-mcp[cli]==1.15.0
+mcp[cli]
 
 # Other dependencies
-a2a-sdk==0.3.0
+a2a-sdk
+numpy

@@ -170,7 +170,18 @@ NLWebの異なる構成要素、NLWebの利点、そして旅行アプリケー�
 
 4. **正確な結果**: LLMはデータベースからの検索結果を解釈し、「家族向け」、「プール」、「ホノルル」の基準に基づいて最適な一致を特定し、自然言語応答をフォーマットします。重要なのは、応答がウェブサイトのカタログからの実際のホテルを参照し、架空の情報を避けることです。
 
-5. **AIエージェントとのインタラクション**: NLWebがMCPサーバーとして機能するため、外部のAI旅行エージェントがこのウェブサイトのNLWebインスタンスに接続することも可能です。AIエージェントは`ask` MCPメソッドを使用してウェブサイトに直接クエリを送信できます：`ask("ホテル
+5. **AIエージェントとのインタラクション**: NLWebがMCPサーバーとして機能するため、外部のAI旅行エージェントがこのウェブサイトのNLWebインスタンスに接続することも可能です。AIエージェントは`ask` MCPメソッドを使用してウェブサイトに直接クエリを送信できます： `ask("ホノルルエリアにホテルが推奨するビーガン対応レストランはありますか？")`。NLWebインスタンスは、レストラン情報のデータベース（ロードされている場合）を活用してこれを処理し、構造化されたJSONレスポンスを返します。
+
+### MCP/A2A/NLWeb についてさらに質問がありますか?
+
+[Azure AI Foundry Discord](https://aka.ms/ai-agents/discord) に参加して、他の学習者と交流したり、オフィス アワーに参加したり、AI エージェントに関する質問に回答してもらったりしましょう。
+
+## リソース
+
+- [MCP for Beginners](https://aka.ms/mcp-for-beginners)  
+- [MCP Documentation](https://github.com/microsoft/semantic-kernel/tree/main/python/semantic-kernel/semantic_kernel/connectors/mcp)
+- [NLWeb Repo](https://github.com/nlweb-ai/NLWeb)
+- [Semantic Kernel Guides](https://learn.microsoft.com/semantic-kernel/)
 
 ---
 
